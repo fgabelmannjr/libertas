@@ -1,4 +1,4 @@
-![Mastodon](https://i.imgur.com/NhZc40l.png)
+![Libertas]
 ========
 
 [![GitHub release](https://img.shields.io/github/release/tootsuite/mastodon.svg)][releases]
@@ -12,6 +12,12 @@
 [code_climate]: https://codeclimate.com/github/tootsuite/mastodon
 [crowdin]: https://crowdin.com/project/mastodon
 [docker]: https://hub.docker.com/r/tootsuite/mastodon/
+
+Libertas is a decentralized social media platform powered by the DigiByte Blockchain. Libertas (Latin for 'liberty' or 'freedom') is the Roman goddess of liberty.  Liber is Latin for "Free" or "the free one" known as Liber Pater "the free Father" was the god of viticulture, wine, fertility & freedom. The social media engine is "Libertas" & when you talk or speak you "Liber."
+
+Libertas is an effort to bring together the power of the open-source Mastodon social network built upon the ActivityPub protocol with the speed, security, and decentralization of the DigiByte blockchain.
+
+Libertas will use DigiBytes DigiID to handle authentication, it will integrate DGB as a payment currency and incentive layer and will incorporate the infinite possibilities of DigiAssets + IPFS. DGB is a 7-year hold truly decentralized blockchain that is 40x faster than Bitcoin and is the perfect blockchain to build a decentralized social network upon.
 
 Mastodon is a **free, open-source social network server** based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub)!
 
